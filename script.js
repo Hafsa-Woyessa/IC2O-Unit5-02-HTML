@@ -9,7 +9,7 @@ function displayMessage () {
 document.getElementById('button').addEventListener
 ('click', myFunction)
 function myFunction () {
-  alert ('Hello World')
+  alert('Hello World')
 }
 
 // This line displays a Hello message
