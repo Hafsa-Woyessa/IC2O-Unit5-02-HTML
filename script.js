@@ -6,8 +6,9 @@ function displayMessage () {
   'Hello'
 }
 
-document.getElementById('button').addEventListener
-('click', myFunction)
+document.getElementById('button').addEventListen('click',
+ myFunction)
+
 function myFunction () {
   alert('Hello World')
 }
