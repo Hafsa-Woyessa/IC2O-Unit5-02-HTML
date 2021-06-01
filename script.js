@@ -7,7 +7,7 @@ function displayMessage () {
 }
 
 document.getElementById('button').addEventListen('click',
- myFunction)
+   myFunction)
 
 function myFunction () {
   alert('Hello World')
